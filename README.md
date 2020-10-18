@@ -1,17 +1,17 @@
-# Table of Contents
-* [General-Info](general-info)
-* [Setup](setup)
-* [Environment](environment)
-* [Main functions](main)
-    * [CASE](case)
-    * [COALESCE](coalesce)
-    * [NULLIF](nullif)
-    * [LEAST](least)
-    * [GREATEST](greatest)
-    * [CASTING](casting)
-    * [DISTINCT](distinct)
+   # Table of Contents
+   * [General-Info](general-info)
+   * [Setup](setup)
+   * [Environment](environment)
+   * [Main functions](main)
+       * [CASE](case)
+      * [COALESCE](coalesce)
+      * [NULLIF](nullif)
+      * [LEAST](least)
+      * [GREATEST](greatest)
+      * [CASTING](casting)
+      * [DISTINCT](distinct)
     
-* [Screenshots](screenshots)
+   * [Screenshots](screenshots)
 <br>
 
 ## General - Info 
