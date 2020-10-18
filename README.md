@@ -152,4 +152,5 @@ DISTINCT
         DISTINCT X1
     FROM
         Table
-#Screenshots
+
+## Screenshots
