@@ -13,7 +13,7 @@
     
 * [Screenshots](screenshots)
 <br>
-# General - Info 
+#General - Info 
 <br>
     This project was created in order to understand the basic,
     cleaning process in SQL, with some important functions in result of exploring the dataset,
