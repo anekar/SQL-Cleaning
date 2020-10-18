@@ -1,8 +1,8 @@
-##Table of Contents
+## Table of Contents
 * [General-Info](general-info)
 * [Setup](setup)
 * [Environment](environment)
-* [Main functions for cleaning](main functions for cleaning)
+* [Main functions](main functions)
     * [CASE](case)
     * [COALESCE](coalesce)
     * [NULLIF](nullif)
