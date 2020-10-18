@@ -51,8 +51,8 @@ CASE
     ELSE else_value
 END
 ```
-COALESCE
-=
+## COALESCE
+
   **Function Defining**
     
     Replacing null values with standrard values.
@@ -68,8 +68,8 @@ FROM
     table
 ```
 
-NULLIF
-=
+## NULLIF
+
    **Function defining**
     
     This function is the opposite of COALESCE.
@@ -83,8 +83,8 @@ NULLIF
     FROM
         Table
 
-LEAST
-=
+## LEAST
+
   **Function Defining**
     
     This function takes any number of values and returns the least,
@@ -104,8 +104,8 @@ LEAST
        employees;
   
    
-GREATEST     
-=   
+## GREATEST     
+   
 **Function Defining**
     
     This function takes any number of values and returns the greatest,
@@ -124,8 +124,8 @@ GREATEST
     FROM
        employees;
        
-CASTING
-=
+## CASTING
+
 **Function defining**
     
     Changing the data type of a column within  a query.Let's say,
