@@ -1,34 +1,39 @@
-##Table of Contents
-* [General-Info](general-info)
-* [Setup](setup)
-* [Environment](environment)
-* [Main functions for cleaning](main functions for cleaning)
-    * [CASE](case)
-    * [COALESCE](coalesce)
-    * [NULLIF](nullif)
-    * [LEAST](least)
-    * [GREATEST](greatest)
-    * [CASTING](casting)
-    * [DISTINCT](distinct)
+   # Table of Contents
+   * [General-Info](general-info)
+   * [Setup](setup)
+   * [Environment](environment)
+   * [Main functions](main)
+       * [CASE](case)
+      * [COALESCE](coalesce)
+      * [NULLIF](nullif)
+      * [LEAST](least)
+      * [GREATEST](greatest)
+      * [CASTING](casting)
+      * [DISTINCT](distinct)
     
-* [Screenshots](screenshots)
-#General - Info 
+   * [Screenshots](screenshots)
+<br>
+
+## General - Info 
+
     This project was created in order to understand the basic,
     cleaning process in SQL, with some important functions in result of exploring the dataset,
     get duplicate values etc.
-#Setup
+    <br>
+    
+## Setup
     In order to start the project do the following:
        1. Start Microsoft SQL Server Management Studio
        2. Click Databases
        3. New Database 
        4. Give your new database a name 
        5. Start designing
-#Environment
+## Environment
 ```
 SQL Server Management Studio 2018
 SQL Server 2019
 ```
-#Main functions for cleaning
+## Main functions for cleaning
 CASE
 = 
   **Function Defining**
@@ -46,8 +51,8 @@ CASE
     ELSE else_value
 END
 ```
-COALESCE
-=
+## COALESCE
+
   **Function Defining**
     
     Replacing null values with standrard values.
@@ -63,8 +68,8 @@ FROM
     table
 ```
 
-NULLIF
-=
+## NULLIF
+
    **Function defining**
     
     This function is the opposite of COALESCE.
@@ -78,8 +83,8 @@ NULLIF
     FROM
         Table
 
-LEAST
-=
+## LEAST
+
   **Function Defining**
     
     This function takes any number of values and returns the least,
@@ -99,8 +104,8 @@ LEAST
        employees;
   
    
-GREATEST     
-=   
+## GREATEST     
+   
 **Function Defining**
     
     This function takes any number of values and returns the greatest,
@@ -119,8 +124,8 @@ GREATEST
     FROM
        employees;
        
-CASTING
-=
+## CASTING
+
 **Function defining**
     
     Changing the data type of a column within  a query.Let's say,
@@ -147,4 +152,5 @@ DISTINCT
         DISTINCT X1
     FROM
         Table
-#Screenshots
+
+## Screenshots
