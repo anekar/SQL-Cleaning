@@ -12,23 +12,27 @@
     * [DISTINCT](distinct)
     
 * [Screenshots](screenshots)
-#General - Info 
+<br>
+## General - Info 
+<br>
     This project was created in order to understand the basic,
     cleaning process in SQL, with some important functions in result of exploring the dataset,
     get duplicate values etc.
-#Setup
+    <br>
+    
+## Setup
     In order to start the project do the following:
        1. Start Microsoft SQL Server Management Studio
        2. Click Databases
        3. New Database 
        4. Give your new database a name 
        5. Start designing
-#Environment
+## Environment
 ```
 SQL Server Management Studio 2018
 SQL Server 2019
 ```
-#Main functions for cleaning
+## Main functions for cleaning
 CASE
 = 
   **Function Defining**
