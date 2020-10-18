@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 * [General-Info](general-info)
 * [Setup](setup)
 * [Environment](environment)
@@ -13,8 +13,9 @@
     
 * [Screenshots](screenshots)
 <br>
-#General - Info 
-<br>
+
+## General - Info 
+
     This project was created in order to understand the basic,
     cleaning process in SQL, with some important functions in result of exploring the dataset,
     get duplicate values etc.
