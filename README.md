@@ -4,10 +4,6 @@
    * [Environment](environment)
    * [Main functions](main)
        * [CASE](case)
-      * [COALESCE](coalesce)
-      * [NULLIF](nullif)
-      * [LEAST](least)
-      * [GREATEST](greatest)
       * [CASTING](casting)
       * [DISTINCT](distinct)
     
@@ -51,79 +47,7 @@ CASE
     ELSE else_value
 END
 ```
-## COALESCE
 
-  **Function Defining**
-    
-    Replacing null values with standrard values.
-  
- 
-**FORMAT**
-```SQL
-SELECT
-    X1,
-    X2,
-    COALESCE(title, 'NO TITLE') AS title
-FROM
-    table
-```
-
-## NULLIF
-
-   **Function defining**
-    
-    This function is the opposite of COALESCE.
-    If the first value equals the second it will return NULL. 
-  **FORMAT**
-  
-    SELECT
-       X1,
-       X2,
-       NULLIF(Condition1, 'Variable') AS ...
-    FROM
-        Table
-
-## LEAST
-
-  **Function Defining**
-    
-    This function takes any number of values and returns the least,
-    of the values. For example say the greatest amount is 15.
-    
-   **FORMAT**
-    
-    SELECT
-       X1,
-       X2,
-       X3,
-       X4,
-       X5
-       LEAST(15, wage) as ...,
-       ...
-    FROM
-       employees;
-  
-   
-## GREATEST     
-   
-**Function Defining**
-    
-    This function takes any number of values and returns the greatest,
-    of the values. For example say the least amount is 15.
-    
-   **FORMAT**
-    
-    SELECT
-       X1,
-       X2,
-       X3,
-       X4,
-       X5
-       GREATEST(15, wage) as ...,
-       ...
-    FROM
-       employees;
-       
 ## CASTING
 
 **Function defining**
