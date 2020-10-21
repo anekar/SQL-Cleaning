@@ -79,6 +79,10 @@ DISTINCT
 
 ## Screenshots
 ![database](https://user-images.githubusercontent.com/47696240/96724398-756e3880-13b8-11eb-8081-cf9119f1f56e.png)
+<br>
+
+![reviews under 310](https://user-images.githubusercontent.com/47696240/96724984-13fa9980-13b9-11eb-9071-88c8e48d1d89.png)
+
 
 
 ## Queries
