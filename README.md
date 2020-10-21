@@ -6,8 +6,8 @@
        * [CASE](case)
       * [CASTING](casting)
       * [DISTINCT](distinct)
-    
    * [Screenshots](screenshots)
+   * [Queries](queries)
 <br>
 
 ## General - Info 
@@ -78,3 +78,21 @@ DISTINCT
         Table
 
 ## Screenshots
+
+## Queries
+
+### Finding the distinct courseProviders  from db 
+```SQL
+SELECT DISTINCT(CourseProvider) AS distinct_values
+FROM newCleaning
+```
+### Function CASE
+```SQL
+SELECT TotalReviews,
+CASE 
+WHEN TotalReviews <= 16 THEN 'Not reliable course'
+WHEN TotalReviews <= 455 THEN 'Some reliable course'
+ELSE 'Very reliable course'
+END AS CaseStatement
+FROM newCleaning
+```
