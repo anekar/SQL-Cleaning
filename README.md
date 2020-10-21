@@ -78,6 +78,8 @@ DISTINCT
         Table
 
 ## Screenshots
+![database](https://user-images.githubusercontent.com/47696240/96724398-756e3880-13b8-11eb-8081-cf9119f1f56e.png)
+
 
 ## Queries
 
