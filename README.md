@@ -31,7 +31,7 @@ SQL Server 2019
 ```
 ## Main functions for cleaning
 CASE
-= 
+
   **Function Defining**
     
     WHEN specific variables satisfy specific criteria THEN,  
