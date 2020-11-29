@@ -10,7 +10,7 @@
    * [Queries](queries)
 <br>
 
-## General - Info 
+## Project Information
 
     This project was created for understanding the basic,
     cleaning processes in SQL, with some important functions in result of exploring the dataset,
@@ -24,6 +24,7 @@
        3. New Database 
        4. Give your new database a name 
        5. Start designing
+
 ## Environment
 ```
 SQL Server Management Studio 2018
