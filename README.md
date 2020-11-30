@@ -30,7 +30,7 @@
 SQL Server Management Studio 2018
 SQL Server 2019
 ```
-## Main functions for cleaning
+## Queries
 CASE
 
   **Function Defining**
