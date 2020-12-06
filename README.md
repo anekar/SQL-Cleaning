@@ -65,8 +65,8 @@ END
     FROM
     Table
        
-DISTINCT
-=
+## DISTINCT
+
 **Function defining**
     
     Determining the unique values in a dataset.
