@@ -18,7 +18,7 @@
     <br>
     
 ## Setup
-    In order to start the project do the following:
+    In order to start  the following must be done
        1. Start Microsoft SQL Server Management Studio
        2. Click Databases
        3. New Database 
