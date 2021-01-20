@@ -30,7 +30,7 @@
 SQL Server Management Studio 2018
 SQL Server 2019
 ```
-## Commands
+## Sample - Code
 CASE
 
   **Function Defining**
