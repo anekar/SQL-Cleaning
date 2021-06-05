@@ -65,7 +65,7 @@ END
     FROM
     Table
        
-## DISTINCT
+## DISTINCT ##
 
 **Function defining**
     
