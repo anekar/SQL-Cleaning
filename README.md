@@ -18,7 +18,7 @@
     <br>
     
 ## Setup
-    In order to start  the following must be done
+    In order to start  the following process must be followed
        1. Start Microsoft SQL Server Management Studio
        2. Select Databases
        3. New Database 
