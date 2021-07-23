@@ -31,7 +31,7 @@ SQL Server Management Studio 2018
 SQL Server 2019
 ```
 ## Sample Code
-CASE
+CASEl
 
   **Function Defining**
     
@@ -53,7 +53,7 @@ END
 
 **Function defining**
     
-    Changing the data type of a column within  a query.Let's say,
+    Changing the data type of a column within  a query. Let's say,
     we want to change the data type of a variable age to numeric format.
     
 **FORMAT**
