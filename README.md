@@ -1,7 +1,4 @@
-   <kbd>W</kbd>
-   
-   <details>
-   <summary> Click here for more</summary>
+
    
    # Table of Contents
    * [General-Info](general-info)
